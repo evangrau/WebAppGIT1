@@ -1,1 +1,3 @@
 This is new file B created by Player 2.
+
+This is an edit to file B made by Player 1.
